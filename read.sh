@@ -1,3 +1,4 @@
+echo "hello guys thisis read command"
 echo "well come to sbi bank "
 read -p "enter your bank user name:" name
 read -sp " enter your bank password:" passwd
